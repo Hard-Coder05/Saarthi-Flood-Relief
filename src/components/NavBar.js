@@ -24,6 +24,16 @@ export default class NavBar extends Component {
                     DASHBOARD
                   </button>
                 </Link>
+                <Link to="/helpline">
+                  <button className="font-inter font-semibold color-text text-sm tracking-morewider px-4 py-2">
+                    HELPLINE NUMBERS
+                  </button>
+                </Link>
+                <Link to="/about">
+                  <button className="font-inter font-semibold color-text text-sm tracking-morewider px-4 py-2">
+                    ABOUT US
+                  </button>
+                </Link>
               </div>
             </nav>
           </FadeIn>
