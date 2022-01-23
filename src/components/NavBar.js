@@ -14,7 +14,7 @@ export default class NavBar extends Component {
                 <div className="flex flex-row">
                   <img src={test} className="w-12 my-4 mx-2" alt="logo" />
                   <p className="text-2xl font-inter font-semibold my-auto tracking-wider">
-                    Flood Contour
+                    SAARTHI
                   </p>
                 </div>
               </Link>

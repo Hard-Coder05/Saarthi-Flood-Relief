@@ -19,7 +19,7 @@ function Footer() {
                         className="w-12 my-4 mx-2"
                       />
                       <span className="my-auto  text-2xl font-semibold font-inter text-white tracking-wider">
-                        Flood Contour
+                        SAARTHI
                       </span>
                     </div>
                   </Link>
@@ -79,7 +79,7 @@ function Footer() {
         </div>
         <div className="bg-darkblue mx-auto">
           <p className="font-roboto text-white text-sm py-4 font-regular text-center">
-            &copy; 2021 Flood Contour. All rights reserved.
+            &copy; 2022 SAARTHI. All rights reserved.
           </p>
         </div>
       </FadeIn>
